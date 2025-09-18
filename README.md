@@ -59,7 +59,6 @@ Our system follows a structured pipeline to ensure optimal and fair candidate al
 ---
 
 ## 🔗 Important Links
-
-* **🎨 Figma Prototype:** `[Paste your Figma link here]`
+`
 * **🎥 Video Demo:** `[Paste your Video Demo link here]`
 * **📄 Presentation:** `[Link to the PDF you provided]`
