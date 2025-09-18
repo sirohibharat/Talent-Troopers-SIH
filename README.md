@@ -10,8 +10,8 @@
 ### Team Members
 * **Vipul Prakash Srivastava** (Team Lead)
 * Aayushi Jain
-* Mohika Grover
 * Bharat Sirohi
+* Mohika Grover
 * Vinita Prakash Singh
 * Sagar
 
