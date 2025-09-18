@@ -11,9 +11,9 @@
 * **Vipul Prakash Srivastava** (Team Lead)
 * Aayushi Jain
 * Mohika Grover
-* Sagar
-* Vinita Prakash Singh
 * Bharat Sirohi
+* Vinita Prakash Singh
+* Sagar
 
 ---
 
