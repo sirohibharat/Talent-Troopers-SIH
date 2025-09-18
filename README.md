@@ -31,21 +31,20 @@ The system automates the initial screening, generating a ranked list of top cand
 
 ## 💻 Tech Stack Used
 
-* [cite_start]**Frontend:** `Next.js`, `TailwindCSS` [cite: 32]
-* [cite_start]**Backend:** `Node.js (for APIs)`, `FastAPI (for AI integration)` [cite: 34, 35]
-* [cite_start]**Database:** `PostgreSQL`, `OpenSearch` [cite: 36, 37]
-* [cite_start]**AI Engine:** `SBERT` for fairness-aware ranking, embeddings, and resume parsing. [cite: 39, 40, 41, 52, 53]
-
+* **Frontend:** `Next.js`, `TailwindCSS` 
+* **Backend:** `Node.js (for APIs)`, `FastAPI (for AI integration)` 
+* **Database:** `PostgreSQL`, `OpenSearch` 
+* **AI Engine:** `SBERT` for fairness-aware ranking, embeddings, and resume parsing. 
 ---
 
 ## 🌟 Key Features
 
-* [cite_start]**Intelligent Resume Parsing:** AI reads and understands resumes for skills and experience, not just keywords. [cite: 20]
-* [cite_start]**Automated Shortlisting:** Automatically generates a ranked list of the most promising candidates for each role. [cite: 21]
-* [cite_start]**Fairness & Transparency:** The system is designed to ensure that final choices are fair and meet diversity requirements. [cite: 23, 24]
-* [cite_start]**Recruiter-in-the-Loop:** A dedicated portal provides smart suggestions, but recruiters always have the final say and can override AI recommendations. [cite: 25, 26]
-* [cite_start]**Feedback Loop:** The system continuously learns and improves from recruiter feedback and real-world outcomes. [cite: 60, 83]
-* [cite_start]**Explainable AI (XAI):** Provides clear reasons for its recommendations, such as skills matched, stipend fit, and commute distance, to build trust. [cite: 82]
+* **Intelligent Resume Parsing:** AI reads and understands resumes for skills and experience, not just keywords. 
+* **Automated Shortlisting:** Automatically generates a ranked list of the most promising candidates for each role. 
+* **Fairness & Transparency:** The system is designed to ensure that final choices are fair and meet diversity requirements. 
+* **Recruiter-in-the-Loop:** A dedicated portal provides smart suggestions, but recruiters always have the final say and can override AI recommendations. 
+* **Feedback Loop:** The system continuously learns and improves from recruiter feedback and real-world outcomes. 
+* **Explainable AI (XAI):** Provides clear reasons for its recommendations, such as skills matched, stipend fit, and commute distance, to build trust. 
 
 ---
 
@@ -53,10 +52,9 @@ The system automates the initial screening, generating a ranked list of top cand
 
 Our system follows a structured pipeline to ensure optimal and fair candidate allocation:
 
-1.  [cite_start]**Input Preparation:** Resumes are uploaded, parsed, and relevant data is extracted. [cite: 43, 45, 48]
-2.  [cite_start]**Scoring and Embedding:** The extracted data is converted into embeddings, and each candidate is assigned a score. [cite: 46, 49, 29]
-3.  [cite_start]**Allocation and Output:** Business rules and fairness constraints are applied to generate a shortlist. [cite: 58, 55] [cite_start]This list is then reviewed by a recruiter, whose feedback can be used to re-score or reallocate, ultimately leading to the selection of the best candidates. [cite: 56, 60, 65]
-
+1.  **Input Preparation:** Resumes are uploaded, parsed, and relevant data is extracted. 
+2.  **Scoring and Embedding:** The extracted data is converted into embeddings, and each candidate is assigned a score. 
+3.  **Allocation and Output:** Business rules and fairness constraints are applied to generate a shortlist. This list is then reviewed by a recruiter, whose feedback can be used to re-score or reallocate, ultimately leading to the selection of the best candidates. 
 
 ---
 
