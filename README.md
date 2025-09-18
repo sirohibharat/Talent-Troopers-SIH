@@ -1,7 +1,7 @@
 # Talent-Troopers-SIH
 # AI-Based Smart Allocation Engine for PM Internship Scheme
 
-> An intelligent system designed to automate and optimize the intern allocation process, ensuring fairness, transparency, and efficiency.
+> An intelligent system designed to automate and optimize the intern allocation process for PM Internship portal ensuring fairness, transparency, and efficiency.
 
 ---
 
@@ -23,9 +23,9 @@ The current process for allocating internships under the PM Internship Scheme is
 
 ## ✨ Our Solution
 
-[cite_start]Our project, the **AI-Based Smart Allocation Engine**, is a software solution under the **Smart Automation** theme that revolutionizes the internship allocation process. [cite: 4, 6, 7] [cite_start]Instead of relying on simple keyword matching, our AI understands the context, skills, and experience within a resume, much like a human recruiter would. [cite: 20]
+Our project, the **AI-Based Smart Allocation Engine**, is a software solution under the **Smart Automation** theme that revolutionizes the internship allocation process. Instead of relying on simple keyword matching, our AI understands the context, skills, and experience within a resume, much like a human recruiter would. [cite: 20]
 
-[cite_start]The system automates the initial screening, generating a ranked list of top candidates for each role, which makes the hiring process over **70% faster**. [cite: 21, 22] [cite_start]It ensures that the final selections are fair, transparent, and meet diversity requirements. [cite: 24] [cite_start]A dedicated portal provides recruiters with intelligent suggestions, while always keeping them in control of the final decision. [cite: 25, 26]
+The system automates the initial screening, generating a ranked list of top candidates for each role, which makes the hiring process over **70% faster**. It ensures that the final selections are fair, transparent, and meet diversity requirements. A dedicated portal provides recruiters with intelligent suggestions, while always keeping them in control of the final decision. 
 
 ---
 
